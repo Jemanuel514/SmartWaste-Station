@@ -1,0 +1,1 @@
+Este proyecto busca desarrollar una estación de reciclaje automatizada capaz de identificar y clasificar la basura en las categorías plástico, vidrio, papel y cartón. Para llevar este objetivo a cabo se utilizó un modelo de redes neuronales y un servomotor.
