@@ -36,18 +36,19 @@ Breve descripción del proyecto.
 
 
     <p align="center">
-      <img src="Img/model_architecture2.png" alt="[Arquitectura del modelo CIFAR-10">
+      <img src="Img/model_architecture2.png" alt="Arquitectura del modelo CIFAR-10">
     </p>
 
 
-    Arquitctura del modelo CIFAR-10
+    <p align="center">
+      Arquitectura del modelo Principal
+    </p>
 
-    ![Arquitectura del modelo CIFAR-10](Img/model_architecture2.png)
-    
 
-    Arquitectura del modelo Principal
+    <p align="center">
+      <img src="Img/model_architecture1.png" alt="Arquitectura del modelo principal">
+    </p>
 
-    ![Arquitectura del modelo principal](Img/model_architecture1.png)
 
 * Proceso de desarrollo:
   - Fuente del dataset
@@ -64,15 +65,25 @@ Breve descripción del proyecto.
     
     Se normalizaron los datos de imágenes utilizando z-score (media y desviación estándar). Aqui se muestra una imagen despues de la normalizacion:
     
-    
-    CIFAR-10
 
-    ![Imagen normalizada del modelo CIFAR-10](Img/image2.png)
+    <p align="center">
+      CIFAR-10
+    </p>
 
-    Modelo Principal
 
-    ![Imagen normalizada del modelo principal](Img/image1.png)
+    <p align="center">
+      <img src="Img/image2.png" alt="Imagen normalizada del modelo CIFAR-10">
+    </p>
 
+
+    <p align="center">
+      Modelo Principal
+    </p>
+
+
+    <p align="center">
+      <img src="Img/image1.png" alt="Imagen normalizada del modelo principal">
+    </p>
 
 
   - Manejo excepciones/control errores
