@@ -27,7 +27,18 @@ Breve descripción del proyecto.
 * Breve descripción del proyecto -> Alguna imagen o gif que muestre el proyecto
 
 * Arquitectura del proyecto + imagen
+    
     El proyecto sigue una arquitectura de transferencia de aprendizaje. Primero, desarrollamos y entrenamos un modelo de clasificación de imágenes usando el dataset CIFAR-10. Luego, utilizamos este modelo preentrenado y ajustamos las últimas capas para adaptarlo a la tarea de clasificar imágenes de basura en cuatro categorías.
+
+    <p align="center">
+      Arquitctura del modelo CIFAR-10
+    </p>
+
+
+    <p align="center">
+      <img src="Img/model_architecture2.png" alt="[Arquitectura del modelo CIFAR-10">
+    </p>
+
 
     Arquitctura del modelo CIFAR-10
 
@@ -40,14 +51,17 @@ Breve descripción del proyecto.
 
 * Proceso de desarrollo:
   - Fuente del dataset
+    
     El dataset utilizado para el proyecto se encuentra en el directorio 4Clases/, que contiene subdirectorios para cada una de las cuatro clases de imágenes.
     Este es la combinación de 3 datasets diferentes, los cuales son:
     * https://www.kaggle.com/datasets/mostafaabla/garbage-classification
     * https://www.kaggle.com/datasets/farzadnekouei/trash-type-image-dataset
     * https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2
+    
     A su vez se utilizo el dataset cifar10 para el entrenamiento del modelo base que posteriormente se utilizo para entrenar el modelo principal.
 
   - Limpieza de datos (img que lo valide)
+    
     Se normalizaron los datos de imágenes utilizando z-score (media y desviación estándar). Aqui se muestra una imagen despues de la normalizacion:
     
     
@@ -64,6 +78,7 @@ Breve descripción del proyecto.
   - Manejo excepciones/control errores
   - ¿Qué modelo de Machine Learning están usando?
     - Modelo CIFAR-10
+        
         Primero, desarrollamos y entrenamos un modelo de clasificación de imágenes usando el dataset CIFAR-10. La arquitectura del modelo es la siguiente:
 
         - Capa de Convolución: Se utilizan múltiples capas de convolución con activaciones ReLU y regularización L2.
@@ -76,6 +91,7 @@ Breve descripción del proyecto.
 
 
     - Modelo de Clasificación de Basura
+        
         Usamos el modelo CIFAR-10 preentrenado y ajustamos las últimas capas para clasificar imágenes de basura en cuatro categorías. La arquitectura del modelo es la siguiente:
 
         - Carga del Modelo Preentrenado: Se carga el modelo CIFAR-10 entrenado por nosotros.
@@ -90,6 +106,7 @@ Breve descripción del proyecto.
   - Estadísticos (Valores, gráficos, …)
 
   - Métrica(s) de evaluación del modelo
+        
         El modelo se evalúa utilizando la precisión, obteniendo una precisión global del {valor}%.
 
 
