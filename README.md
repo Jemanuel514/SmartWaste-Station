@@ -40,6 +40,8 @@ Breve descripción del proyecto.
     </p>
 
 
+
+
     <p align="center">
       Arquitectura del modelo Principal
     </p>
@@ -53,7 +55,7 @@ Breve descripción del proyecto.
 * Proceso de desarrollo:
   - Fuente del dataset
     
-    El dataset utilizado para el proyecto se encuentra en el directorio 4Clases/, que contiene subdirectorios para cada una de las cuatro clases de imágenes.
+    El dataset utilizado para el proyecto se encuentra en el directorio "4Clases/", que contiene subdirectorios para cada una de las cuatro clases de imágenes.
     Este es la combinación de 3 datasets diferentes, los cuales son:
     * https://www.kaggle.com/datasets/mostafaabla/garbage-classification
     * https://www.kaggle.com/datasets/farzadnekouei/trash-type-image-dataset
@@ -74,6 +76,8 @@ Breve descripción del proyecto.
     <p align="center">
       <img src="Img/image2.png" alt="Imagen normalizada del modelo CIFAR-10">
     </p>
+
+
 
 
     <p align="center">
