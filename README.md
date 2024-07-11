@@ -52,6 +52,8 @@ Breve descripción del proyecto.
       <img src="Img/model_architecture1.png" alt="Arquitectura del modelo principal">
     </p>
 
+    <br>
+
 
 * Proceso de desarrollo:
   - Fuente del dataset
@@ -90,8 +92,8 @@ Breve descripción del proyecto.
       <img src="Img/image1.png" alt="Imagen normalizada del modelo principal">
     </p>
 
+    <br>
 
-  - Manejo excepciones/control errores
   - ¿Qué modelo de Machine Learning están usando?
     - Modelo CIFAR-10
         
@@ -120,6 +122,14 @@ Breve descripción del proyecto.
         - Evaluación del Modelo: Se evalúa el modelo en un conjunto de prueba separado, calculando la precisión global.
 
   - Estadísticos (Valores, gráficos, …)
+       El avance de la presición del modelo fue el siguiente:
+
+        <br>
+        <p align="center">
+          <img src="Img/image3.png" alt="Presición del modelo">
+        </p>
+
+        <br>
 
   - Métrica(s) de evaluación del modelo
         
