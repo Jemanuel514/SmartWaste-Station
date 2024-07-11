@@ -31,7 +31,7 @@ Breve descripción del proyecto.
     El proyecto sigue una arquitectura de transferencia de aprendizaje. Primero, desarrollamos y entrenamos un modelo de clasificación de imágenes usando el dataset CIFAR-10. Luego, utilizamos este modelo preentrenado y ajustamos las últimas capas para adaptarlo a la tarea de clasificar imágenes de basura en cuatro categorías.
 
     <p align="center">
-      **Arquitctura del modelo CIFAR-10**
+      <strong>Arquitctura del modelo CIFAR-10<strong>
     </p>
 
 
@@ -42,7 +42,7 @@ Breve descripción del proyecto.
     <br><br>
 
     <p align="center">
-      **Arquitectura del modelo Principal**
+      <strong>Arquitectura del modelo Principal<strong>
     </p>
 
 
@@ -68,7 +68,7 @@ Breve descripción del proyecto.
     
 
     <p align="center">
-      **CIFAR-10**
+      <strong>CIFAR-10<strong>
     </p>
 
 
@@ -79,7 +79,7 @@ Breve descripción del proyecto.
     <br><br>
 
     <p align="center">
-      **Modelo Principal**
+      <strong>Modelo Principal<strong>
     </p>
 
 
