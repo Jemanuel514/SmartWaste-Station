@@ -30,6 +30,23 @@ Breve descripción del proyecto.
 
     El proyecto consiste en una estación de clasificación de basura. La estación reconocerá la basura a través de una cámara (el de una computadora portátil para este prototipo), las clasificará a través de una red neuronal y la depositará en un contenedor específico dependiendo de la clasificación (vidrio, cartón, metal, plástico). 
 
+    <br>
+    <p align="center">
+      <strong>Imagenes del Proyecto</strong>
+    </p>
+
+    <br>
+    <p align="center">
+      <img src="Img/image4.png" alt="Imagen del proyecto">
+    </p>
+    <br>
+
+    <br>
+    <p align="center">
+      <img src="Img/image5.png" alt="Imagen del proyecto">
+    </p>
+    <br>
+
 * Arquitectura del proyecto + imagen
     
     El proyecto sigue una arquitectura de transferencia de aprendizaje. Primero, desarrollamos y entrenamos un modelo de clasificación de imágenes usando el dataset CIFAR-10. Luego, utilizamos este modelo preentrenado y ajustamos las últimas capas para adaptarlo a la tarea de clasificar imágenes de basura en cuatro categorías.
@@ -133,7 +150,6 @@ Breve descripción del proyecto.
         <p align="center">
           <img src="Img/image3.png" alt="Presición del modelo">
         </p>
-
         <br>
 
   - Métrica(s) de evaluación del modelo
