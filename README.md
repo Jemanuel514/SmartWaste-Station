@@ -33,7 +33,7 @@ Breve descripción del proyecto.
     <br>
 
     <p align="center">
-      <strong>Arquitctura del modelo CIFAR-10<strong>
+      <strong>Arquitctura del modelo CIFAR-10</strong>
     </p>
 
 
@@ -44,7 +44,7 @@ Breve descripción del proyecto.
     <br><br>
 
     <p align="center">
-      <strong>Arquitectura del modelo Principal<strong>
+      <strong>Arquitectura del modelo Principal</strong>
     </p>
 
 
@@ -71,7 +71,7 @@ Breve descripción del proyecto.
     <br>
 
     <p align="center">
-      <strong>CIFAR-10<strong>
+      <strong>CIFAR-10</strong>
     </p>
 
 
@@ -82,7 +82,7 @@ Breve descripción del proyecto.
     <br><br>
 
     <p align="center">
-      <strong>Modelo Principal<strong>
+      <strong>Modelo Principal</strong>
     </p>
 
 
