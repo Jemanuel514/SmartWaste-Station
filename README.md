@@ -39,8 +39,7 @@ Breve descripción del proyecto.
       <img src="Img/model_architecture2.png" alt="Arquitectura del modelo CIFAR-10">
     </p>
 
-
-
+    <br>
 
     <p align="center">
       Arquitectura del modelo Principal
@@ -77,8 +76,7 @@ Breve descripción del proyecto.
       <img src="Img/image2.png" alt="Imagen normalizada del modelo CIFAR-10">
     </p>
 
-
-
+    <br>
 
     <p align="center">
       Modelo Principal
