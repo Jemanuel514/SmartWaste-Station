@@ -154,7 +154,7 @@ Breve descripción del proyecto.
 
   - Métrica(s) de evaluación del modelo
         
-        El modelo se evalúa utilizando la precisión, obteniendo una precisión global del {valor}%.
+    El modelo se evalúa utilizando la precisión, obteniendo una precisión global del {valor}%.
 
 
 
