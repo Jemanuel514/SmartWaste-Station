@@ -24,7 +24,11 @@ Breve descripción del proyecto.
 
 * Nombre del proyecto
 
+    SmartWaste Station
+
 * Breve descripción del proyecto -> Alguna imagen o gif que muestre el proyecto
+
+    El proyecto consiste en una estación de clasificación de basura. La estación reconocerá la basura a través de una cámara (el de una computadora portátil para este prototipo), las clasificará a través de una red neuronal y la depositará en un contenedor específico dependiendo de la clasificación (vidrio, cartón, metal, plástico). 
 
 * Arquitectura del proyecto + imagen
     
@@ -65,6 +69,7 @@ Breve descripción del proyecto.
     * https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2
     
     A su vez se utilizo el dataset cifar10 para el entrenamiento del modelo base que posteriormente se utilizo para entrenar el modelo principal.
+    * https://www.cs.toronto.edu/~kriz/cifar.html
 
   - Limpieza de datos (img que lo valide)
     
