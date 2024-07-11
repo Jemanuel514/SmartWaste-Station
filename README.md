@@ -31,7 +31,7 @@ Breve descripción del proyecto.
     Arquitctura del modelo de CIFAR-10
     
     Arquitectura del modelo Principal
-    ![Arquitectura del modelo principal](model_architecture.png)
+    ![Arquitectura del modelo principal](Img/model_architecture.png)
 
 * Proceso de desarrollo:
 
@@ -45,7 +45,7 @@ Breve descripción del proyecto.
 
 -Limpieza de datos (img que lo valide)
     Se normalizaron los datos de imágenes utilizando z-score (media y desviación estándar). Aqui se muestra una imagen despues de la normalizacion:
-    ![Imagen normalizada](image.png)
+    ![Imagen normalizada](Img/image.png)
 -Manejo excepciones/control errores
 -¿Qué modelo de Machine Learning están usando?
     Modelo CIFAR-10
