@@ -146,11 +146,11 @@ Breve descripción del proyecto.
   - Estadísticos (Valores, gráficos, …)
        El avance de la presición del modelo fue el siguiente:
 
-        <br>
-        <p align="center">
-          <img src="Img/image3.png" alt="Presición del modelo">
-        </p>
-        <br>
+    <br>
+    <p align="center">
+      <img src="Img/image3.png" alt="Presición del modelo">
+    </p>
+    <br>
 
   - Métrica(s) de evaluación del modelo
         
