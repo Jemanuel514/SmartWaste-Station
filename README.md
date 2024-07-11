@@ -1,22 +1,12 @@
 # NeuroEcoWasteSolutions
-En este espacio se sube el código creado para el grupo 
-
-Se debe agregar toda la documentación que ustedes consideren pertinente para la compresión de los modelos usados, la ejecución del código y los resultados obtenidos. 
-Puden, si desean, agregar imágenes o resultados obtenidos. 
-
-Recuerden que este readme es su puerta de entrada para su proyecto. 
-
-
-
 
 ## Tabla de contenidos
 
 1. [Descripción](#SmartWaste-Station)
 2. [Arquitectura](#Arquitectura-del-Proyecto)
 3. [Proceso](#Proceso-de-Desarrollo)
-4. [Funcionalidades](#Funcionalidades-Extra)
-5. [Estado del proyecto](#EstadoDelProyecto)
-6. [Agradecimientos](#Agradecimientos)
+4. [Funcionalidades Extra](#Funcionalidades-Extra)
+
 
 ## SmartWaste Station
 
@@ -177,5 +167,3 @@ Recuerden que este readme es su puerta de entrada para su proyecto.
 - Ejem …: …
   - Tecnología/Herramientas usadas …
 
-
-## Agradecimientos
