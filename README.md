@@ -5,7 +5,7 @@
 1. [Descripción](#SmartWaste-Station)
 2. [Arquitectura](#Arquitectura-del-Proyecto)
 3. [Proceso](#Proceso-de-Desarrollo)
-4. [Funcionalidades Extra](#Funcionalidades-Extra)
+
 
 
 ## SmartWaste Station
