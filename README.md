@@ -140,30 +140,5 @@
 
 
 
-## Funcionalidades Extra
 
-- Ejem 1: Implementación de chatbot
-  - Tecnología/Herramientas usadas (Librería, Framework, …)
-  - Arquitectura (img)
-  - Indicar fuente del dataset
-  - Limpieza de datos (ejem: se usó PLN + img que lo validen)
-  - Manejo excepciones/control errores
-  - En caso de usar un modelo de ML indicar ¿Qué modelo de Machine Learning están usando?
-  - Estadísticos (Valores, gráficos, …)
-  - Métrica(s) de evaluación del modelo
-
-- Ejem 2: Integración del proyecto en una pág web
-  - Tecnología/Herramientas usadas …
-  - Arquitectura (img)
-
-- Ejem 3: Integración del proyecto en un canal WhatsApp, Discord, Telegram, Correo, …
-  - Tecnología/Herramientas usadas …
-  - Arquitectura (img)
-
-- Ejem 4: Desarrollo de interfaz gráfica de usuario
-  - Tecnología/Herramientas usadas …
-  - Arquitectura (img)
-
-- Ejem …: …
-  - Tecnología/Herramientas usadas …
 
